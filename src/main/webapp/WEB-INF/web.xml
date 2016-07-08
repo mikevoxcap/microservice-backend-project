@@ -23,7 +23,7 @@
     <servlet>
         <display-name>BackendHttpServlet</display-name>
         <servlet-name>BackendHttpServlet</servlet-name>
-        <servlet-class>com.redhat.examples.backend.BackendHttpServlet</servlet-class>
+        <servlet-class>com.michaelhoffmaninc.microservice.example.backend.BackendHttpServlet</servlet-class>
     </servlet>
 
 
